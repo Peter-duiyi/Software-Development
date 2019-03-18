@@ -25,7 +25,7 @@ Also, there will be Review Meetings and Retrospective Meetings for reviewing thi
 Most requirements or work that should be done or going to be done will be documented clearly on Kanban(for example, I used it when I was learning Scrum).
 
 Basically, compare to Waterfall model, Agile is more flexible not only because it has many sprints which makes things much easier to backtrack, 
-but also the whole structure of the model enable more communication and closer corperation either between clients and Team master or each teammembers.
+but also the whole structure of the model enable more communications and closer corperation either between clients and Team master or each teammembers.
 
 
 #### reference
