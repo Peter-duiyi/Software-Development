@@ -1,19 +1,19 @@
 ###  Software development process
 
 #### Software Development Life Cycle(SDLC)
-Planning -> Analysis -> Design -> Implementation -> Maintenance
+Planning -> Analysis -> Design -> Implementation -> Maintenance  
 It describes an iterative process of software development in normal situationS.
 And people came up with serveral differernt models to help technical teams develop softwares based on the conception of SDLC.
 
 #### Waterfall Model
-Requirements -> Design -> Implementation -> Verification -> Maintenance
+Requirements -> Design -> Implementation -> Verification -> Maintenance  
 It looks like a one-way street and there is no chance of turing back. 
 People who is going to use that model should strictly follow the workflow step by step as expected.
 Even through the fact is some modified waterfall models might be preferred nowadays, 
 but still, the model is not as flexible as the some other models, like Agile.
 
 #### Agile Model
-iteration1: planning -> requirements analysis -> designing -> building -> testing
+iteration1: planning -> requirements analysis -> designing -> building -> testing  
 iteration2: repeat...  
 iteration2: repeat...  
 It may look like an iterative waterfall model. But there are more differences into details.  
