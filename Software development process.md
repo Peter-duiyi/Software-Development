@@ -22,7 +22,7 @@ Each iteration in Scrum is called sprint, it might last for a week or a month, w
 There will be roles including Scrum owner(who represents the client), Scrum Master(who is responsible for communicating with Scrum owner) and Scrum Team(who will be working on developing products).
 More details, a Sprint Planning Meeting will be hold by Scrum Master before each sprint for elaborating the plan and responsibilities of team members.
 Also, there will be Review Meetings and Retrospective Meetings for reviewing things that have been done so far. 
-Most requirements or work that should be done or going to be done will be documented clearly on Kanban(for example, I used it when I was learning Scrum)
+Most requirements or work that should be done or going to be done will be documented clearly on Kanban(for example, I used it when I was learning Scrum).
 
 Basically, compare to Waterfall model, Agile is more flexible not only because it has many sprints which makes things much easier to backtrack, 
 but also the whole structure of the model enable more communication and closer corperation either between clients and Team master or each teammembers.
